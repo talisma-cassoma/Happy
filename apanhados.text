@@ -1,0 +1,143 @@
+
+
+
+---------------
+*live server : ajudou a previzualizar a pagina html no browser
+--------------------------------------------------------------
+box-sizing: border-box
+
+por padradao (content-box)a tamanho da div nao inclui a grossura da borda 
+mas quando de definimos border-box ele tambem iclui a borda no calculo 
+----------------------------------------
+reduzindo o CSS
+font: 4000  18x/1 'Nunito', sans serif;  font-weight  font-size/ line-height font-family
+------------------------------------------
+medidas para textos e paginas resposivas
+rem   
+em  
+----------------------------------------------------------------
+diferenca entre :
+
+.visit > p  para o p especificos
+.visit p    para todos os p na da box 
+---------------------------------
+min(90%, 1024px) encontra o tamanho minimo entre 90% do tamanho da box parent e 1024px 
+-------------------------------
+clamp(4rem, 8vw, 8.4rem); faz uma media entre os tres valores e retona 
+clamp( tamanho minimo, tamanho medio, tamanho maximo); 
+-------------------------------
+usando a biblioteca leaflet.js para usar o map 
+informacoes sobre como usar-lo em https://leafletjs.com/
+
+var map = L.map('map').setView([51.505, -0.09], 13);
+                              ([latitude , longitude], zoom do map)
+-------------------------------------------------------------
+  programar botao de votar: 
+  
+  <button onclick="history.back()"></button>
+----------------------------------------------
+
+  object-fit: cover; bom pra adaptar a imagem dentro da div
+  overflow: hidden; ajuda a manter a imagem dentro da box 
+---------------------------------------------------------------
+
+button.active quer dizer quando o botao estiver acionado , os buttons tem muitas functions covem pesquisar 
+---------------------------------------------------
+
+imagens que aparecem randomicamente é divido a src="https://source.unsplash.com/random?id=1" que é uma API que gera imagens randomicamente
+mais informacoes visite https://source.unsplash.com/
+------------------------------------------------------------------------------------------------------
+
+input:focus{} significa quando seleccionado 
+-------------------------------------------------------------------------------------
+dar um nome um elemento com classe 
+
+html: <div class="input-block images"></div>
+css : .input-block. images{} 
+
+o que ajuda quando queres conferir uma propriedade adicional e ja nao podes dar um id ou name
+-------------------------------------------------------------------------------------- 
+<button type="button"></button> o type="button" evita que o botao se comporta de forma padrao no form envitando que ele submit o forma
+------------------------------------------------------------------------------------
+
+para que um elemeto fique absoluto SOMENTE no seu container é nessario declarar o seu parent(container) relative
+exemplo:
+html:
+        <div class="new-upload">
+             <span >
+                <img/>
+            </span>
+        </div>
+
+css:
+.new-upload {           //parent
+  position: relative;
+}
+.new-upload span {     //child
+  position: absolute;
+}
+--------------------------------------------
+pesquisar mais sobre o objecto (event) 
+--------------------------------------------------------------------------------
+
+quando temos uma so instrucao (uma unica linha de codigo) dentro duma arrow function ()=>{}
+a gente pode escrever a arrow function como => 
+
+exemplo:
+                const ft= (onclick, => { console.log("arrow function")})
+    é o mesmo que:
+                const ft= (onclick, =>  console.log("arrow function"))
+
+-------------------NODE----------------------------------------------------------------------------------
+vereificando a versao do node 
+                                node -v
+vereificando a versao do npm 
+                                npm -v
+vereificando a localização no terminal ou gitbash
+                                ls
+mudando de directory 
+                                cd src
+limpando 
+                                clear
+
+compilando com o node 
+                                node nome.js
+criando nosso package.js
+																npm init -y
+instalando com node package manager
+                                npm install express
+para para fazer reload automatico do server qd mudamos o codigo                                
+                                npm install nodemon 
+-----------------------------------------------------
+envestigar mais sobre tamplate engine?????servempara tornar o html dinamico
+
+envestigar tambem: https://handlebarsjs.com/
+
+instalando a template engine handlebarsjs com node 
+                                 npm install hbs
+-------------------------------------------------------
+instalando o banco de dados sqlite
+                                npm install sqlite-async
+-----------------------------------------------------------
+ATENSION!
+        repere sempre se todas dependencies necessarias estao instaladas no package.json
+        "dependencies": {
+                        "express": "^4.17.1",
+                        "hbs": "^4.1.1",
+                        "nodemon": "^2.0.5",
+                        "sqlite-async": "^1.1.0"
+  }
+} 
+-----------------------------------------------------------------
+
+A porta já está em uso, para resolver isso você pode encerrar o processo que está rodando nessa porta executando o comando:
+
+- Linux/Mac
+
+                                    pkill node
+-------------------------------------------------------------------
+
+uso do dataset e o data-qualquercoisa no html e js 
+--------------------------------------------------------------------
+uso do .then() pra esperar pode ser reduzudo com a instrucao async await  
+----------------------------------------------------------------
