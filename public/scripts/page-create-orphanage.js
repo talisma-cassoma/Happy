@@ -82,5 +82,5 @@ function toggleSelect(event) {
     //meter o dos bottuns sim ou nao no imput do form
     const input = document.querySelector('[name="open_on_weekends"]')
     input.value = button.dataset.value
-    /***/
+    
 }
