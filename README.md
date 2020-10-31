@@ -4,7 +4,7 @@ we have created a web page that displays orphanages on google maps and puts them
 the frontend is fully developed in html, CSS and javaScript.
 
 <h1 align="center">
-   ![proffy](https://user-images.githubusercontent.com/62837677/97766060-1ffefd80-1b15-11eb-9100-11ccdd6e1748.png)
+    <img alt="Proffy" title="Proffy" src="logo.svg" />
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@ the frontend is fully developed in html, CSS and javaScript.
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/proffy.png" width="100%">
+  <img alt="Proffy" src="proffy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -50,4 +50,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
