@@ -49,4 +49,4 @@ This project is under the MIT license. See the archive[LICENSE](LICENSE.md) for 
 
 ---
 
-Made with ♥ by Rocketseat: wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Rocketseat: wave: [Join Rockseat community!](https://discordapp.com/invite/gCRAFhc)
