@@ -55,10 +55,10 @@ Made with ♥ by Rocketseat: wave: [Join Rockseat community!](https://discordapp
 * Installs Node
 * Installs Gitbash  
 * Execute from Gitbash TERMINAL:
-* Installs express
-* Installs handlebar
-* Installs sql-Async
-* Installs nodemon if you want 
+* npm express
+* npm handlebar
+* npm sql-Async
+* npm nodemon if you want 
 * npm start
 * Open the browser: http: // localhost: 5500 /.
 
