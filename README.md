@@ -53,7 +53,7 @@ Made with ♥ by Rocketseat: wave: [Join Rockseat community!](https://discordapp
 
 ## EXECUTION MODE
 * Installs Node
-* Execute from the "Front-End" directory of the project the following commands on cmd:
+* Execute from Gitbash TERMINAL:
 * npm start
 * Open the browser: http: // localhost: 5500 /.
 
