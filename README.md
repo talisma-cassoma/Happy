@@ -50,3 +50,10 @@ This project is under the MIT license. See the archive[LICENSE](LICENSE.md) for 
 ---
 
 Made with ♥ by Rocketseat: wave: [Join Rockseat community!](https://discordapp.com/invite/gCRAFhc)
+
+## EXECUTION MODE
+* Installs Node
+* Execute from the "Front-End" directory of the project the following commands on cmd:
+* npm start
+* Open the browser: http: // localhost: 5500 /.
+
