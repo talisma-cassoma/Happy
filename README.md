@@ -4,7 +4,7 @@ we have created a web page that displays orphanages on google maps and puts them
 the frontend is fully developed in html, CSS and javaScript.
 
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
+   ![proffy](https://user-images.githubusercontent.com/62837677/97766060-1ffefd80-1b15-11eb-9100-11ccdd6e1748.png)
 </h1>
 
 <p align="center">
