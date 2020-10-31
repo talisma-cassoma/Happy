@@ -26,27 +26,27 @@ the frontend is fully developed in html, CSS and javaScript.
   <img alt="Proffy" src="proffy.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This projet was developed with:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## 💻 Projeto
+## 💻 Projet
 
-O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+Proffy is an online study platform that helps people find teachers online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+You can view the project layout through [this link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web). Remembering that you need to have an account at [Figma](http://figma.com/) for acess.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the archive[LICENSE](LICENSE.md) for more details.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Rocketseat: wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
