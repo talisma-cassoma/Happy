@@ -4,7 +4,7 @@ we have created a web page that displays orphanages on google maps and puts them
 the frontend is fully developed in html, CSS and javaScript.
 
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="public/images/log.svg" />
+    <img alt="Happy" title="Happy" src="public/images/logo.png" />
 </h1>
 
 <p align="center">
