@@ -53,7 +53,7 @@ input:focus{} significa quando seleccionado
 dar um nome um elemento com classe 
 
 html: <div class="input-block images"></div>
-css : .input-block. images{} 
+css : .input-block.images{} 
 
 o que ajuda quando queres conferir uma propriedade adicional e ja nao podes dar um id ou name
 -------------------------------------------------------------------------------------- 
