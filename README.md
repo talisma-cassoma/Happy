@@ -56,10 +56,10 @@ Made with ♥ by Rocketseat: wave: [Join Rockseat community!](https://discordapp
 * Installs Gitbash  
 * Execute from Gitbash TERMINAL:
 ```bash
-$ npm express
-$ npm handlebar
-$ npm sql-Async
-$ npm nodemon (if you want) 
+$ npm install express
+$ npm install handlebar
+$ npm install sql-Async
+$ npm install nodemon (if you want) 
 $ npm start
 
 ```
