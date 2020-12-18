@@ -56,12 +56,12 @@ Made with ♥ by Rocketseat: wave: [Join Rockseat community!](https://discordapp
 * Installs Gitbash  
 * Execute from Gitbash TERMINAL:
 ```
-/workspace/Happy $ npm install express
-/workspace/Happy $ npm install handlebar
-/workspace/Happy $ npm install sql-Async
-/workspace/Happy $ npm install nodemon (if you want) 
-/workspace/Happy $ npm start
-/workspace/Happy/src/database $ node db.js (for create database)
+/Happy $ npm install express
+/Happy $ npm install handlebar
+/Happy $ npm install sql-Async
+/Happy $ npm install nodemon (if you want) 
+/Happy $ npm start
+/Happy/src/database $ node db.js (for create database)
 ```
 * Open the browser: 127.0.0.1:5500
 
